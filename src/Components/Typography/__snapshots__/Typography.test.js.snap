@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`H3 should render correctly 1`] = `
+<h3
+  className="sc-bwzfXH fawXov"
+>
+  Test
+</h3>
+`;
+
+exports[`SPAN should render correctly 1`] = `
+<span
+  className="sc-bdVaJa gnuIcu"
+>
+  Test
+</span>
+`;
